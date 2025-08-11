@@ -39,3 +39,6 @@ CSS로 반응형 레이아웃 설계
 <hr>
 
 기획서 보러가기
+<a href="https://github.com/hyeji21/domino/issues/1#issue-3308266956">
+  <img width="1114" height="625" alt="Image" src="https://github.com/user-attachments/assets/433bb4c0-065d-4389-abd6-fb7378f58d14" />
+</a>
