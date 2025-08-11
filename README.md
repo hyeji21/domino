@@ -1,43 +1,34 @@
 # Domino Pizza Clone Coding 🍕
 
-
-## 🍕프로젝트 개요
-
-Domino Pizza 공식 웹사이트를 참고하여 클론코딩한 프로젝트입니다.
-
+## 🍕 프로젝트 개요
+Domino Pizza 공식 웹사이트를 참고하여 클론코딩한 프로젝트입니다.  
 실제 사이트와 유사한 페이지 구조와 기능을 구현하며, HTML/CSS/JavaScript 활용 능력을 향상하는 것을 목표로 했습니다.
 
+---
 
-## 🍕주요 기능
+## 🍕 주요 기능
+- **메인 페이지** : 프로모션 배너, 메뉴 카테고리, 인기 메뉴 표시  
+- **메뉴 상세 페이지** : 제품 이미지, 가격, 설명, 옵션 선택  
+- **장바구니 페이지** : 제품 추가/삭제, 수량 변경, 총액 계산  
+- **카카오 지도 연동** : Kakao Maps JavaScript API를 이용해 매장 위치 및 경로 안내 제공  
 
-메인 페이지 : 프로모션 배너, 메뉴 카테고리, 인기 메뉴 표시
+---
 
-메뉴 상세 페이지 : 제품 이미지, 가격, 설명, 옵션 선택
+## 🍕 기술 스택
+- **Frontend** : HTML5, CSS3, JavaScript, jQuery  
+- **API** : Kakao Maps JavaScript API  
 
-장바구니 페이지 : 제품 추가/삭제, 수량 변경, 총액 계산
+---
 
-카카오 지도 연동 : 카카오 지도 API를 이용해 매장 위치 및 경로 안내 제공
+## 🍕 개발 포인트
+- 실제 웹사이트 UI/기능을 최대한 동일하게 재현  
+- JavaScript를 이용한 장바구니 및 금액 계산 로직 구현  
+- Kakao 지도 API를 활용한 매장 위치 검색 기능 추가  
+- CSS로 반응형 레이아웃 설계  
 
+---
 
-## 🍕기술 스택
-
-Frontend : HTML5, CSS3, JavaScript, jQuery
-
-API : Kakao Maps JavaScript API
-
-
-## 🍕개발 포인트
-
-실제 웹사이트 UI/기능을 최대한 동일하게 재현
-
-JavaScript를 이용한 장바구니 및 금액 계산 로직 구현
-
-CSS로 반응형 레이아웃 설계
-
-
-## 🍕기획서 보러가기
-
-
+## 🍕 기획서 보러가기
 <a href="https://github.com/hyeji21/domino/issues/1#issue-3308266956">
-  <img width="1114" height="625" alt="Image" src="https://github.com/user-attachments/assets/433bb4c0-065d-4389-abd6-fb7378f58d14" />
+  <img width="1114" height="625" alt="Domino Project Plan" src="https://github.com/user-attachments/assets/433bb4c0-065d-4389-abd6-fb7378f58d14" />
 </a>
