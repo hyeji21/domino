@@ -2,13 +2,14 @@
 domino clone project
 
 Domino Pizza Clone Coding 🍕
-
+<hr>
 
 🍕프로젝트 개요
 
 Domino Pizza 공식 웹사이트를 참고하여 클론코딩한 프로젝트입니다.
 
 실제 사이트와 유사한 페이지 구조와 기능을 구현하며, HTML/CSS/JavaScript 활용 능력을 향상하는 것을 목표로 했습니다.
+<hr>
 
 🍕주요 기능
 
@@ -19,10 +20,12 @@ Domino Pizza 공식 웹사이트를 참고하여 클론코딩한 프로젝트입
 장바구니 페이지 : 제품 추가/삭제, 수량 변경, 총액 계산
 
 카카오 지도 연동 : 카카오 지도 API를 이용해 매장 위치 및 경로 안내 제공
+<hr>
 
 🍕기술 스택
 
 Frontend : HTML5, CSS3, JavaScript, jQuery
+<hr>
 
 🍕개발 포인트
 
