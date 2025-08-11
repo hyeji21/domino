@@ -2,7 +2,10 @@
 domino clone project
 
 Domino Pizza Clone Coding 🍕
-프로젝트 개요
+
+
+🍕프로젝트 개요
+
 Domino Pizza 공식 웹사이트를 참고하여 클론코딩한 프로젝트입니다.
 
 실제 사이트와 유사한 페이지 구조와 기능을 구현하며, HTML/CSS/JavaScript 활용 능력을 향상하는 것을 목표로 했습니다.
