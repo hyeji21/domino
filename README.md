@@ -1,6 +1,4 @@
-# domino
-
-##Domino Pizza Clone Coding 🍕
+# domino ## Domino Pizza Clone Coding 🍕
 
 
 ## 🍕프로젝트 개요
