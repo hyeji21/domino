@@ -37,5 +37,5 @@ JavaScript를 이용한 장바구니 및 금액 계산 로직 구현
 
 CSS로 반응형 레이아웃 설계
 <hr>
-< img scr = "https://github.com/hyeji21/domino/issues/1#issue-3308266956" width="600" height="200" >
-기획서 보러가기 </img>
+[< img scr = "https://github.com/hyeji21/domino/issues/1#issue-3308266956" width="600" height="200" >
+기획서 보러가기 </img>](https://github.com/hyeji21/domino/issues/1#issue-3308266956)
