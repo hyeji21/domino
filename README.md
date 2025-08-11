@@ -44,4 +44,3 @@
 ## 📄 기획서 보기
 [![기획서 보기](https://img.shields.io/badge/📄_기획서-바로가기-blue?style=for-the-badge)](https://github.com/hyeji21/domino/issues/1#issue-3308266956)
 
-<img width="1114" height="625" alt="Domino Project Plan" src="https://github.com/user-attachments/assets/433bb4c0-065d-4389-abd6-fb7378f58d14" />
