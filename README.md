@@ -25,6 +25,8 @@ Domino Pizza 공식 웹사이트를 참고하여 클론코딩한 프로젝트입
 🍕기술 스택
 
 Frontend : HTML5, CSS3, JavaScript, jQuery
+
+API : Kakao Maps JavaScript API
 <hr>
 
 🍕개발 포인트
