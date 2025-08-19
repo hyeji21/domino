@@ -44,3 +44,9 @@
 ## 📄 기획서 보기
 [![기획서 보기](https://img.shields.io/badge/📄_기획서-바로가기-blue?style=for-the-badge)](https://github.com/hyeji21/domino/issues/1#issue-3308266956)
 
+---
+
+## 실행
+- [PC에서 보기](http://hyeji21.dothome.co.kr/008_Project_domino/index.html)
+
+
